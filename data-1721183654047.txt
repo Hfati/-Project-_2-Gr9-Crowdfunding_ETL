@@ -1,0 +1,6 @@
+"column_name"	"data_type"	"is_nullable"	"column_default"
+"last_updated"	"timestamp without time zone"	"NO"	NULL
+"contact_id"	"character varying"	"NO"	NULL
+"first_name"	"character varying"	"NO"	NULL
+"last_name"	"character varying"	"NO"	NULL
+"email"	"character varying"	"NO"	NULL

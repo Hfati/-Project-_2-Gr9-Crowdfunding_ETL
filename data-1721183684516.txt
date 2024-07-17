@@ -1,0 +1,4 @@
+"column_name"	"data_type"	"is_nullable"	"column_default"
+"last_updated"	"timestamp without time zone"	"NO"	NULL
+"category_id"	"character varying"	"NO"	NULL
+"category"	"character varying"	"NO"	NULL

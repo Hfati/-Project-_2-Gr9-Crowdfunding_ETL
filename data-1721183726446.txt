@@ -1,0 +1,18 @@
+"column_name"	"data_type"	"is_nullable"	"column_default"
+"end_date"	"date"	"NO"	NULL
+"backers_count"	"integer"	"NO"	NULL
+"pledged"	"integer"	"NO"	NULL
+"goal"	"integer"	"NO"	NULL
+"launched_date"	"date"	"NO"	NULL
+"last_updated"	"timestamp without time zone"	"NO"	NULL
+"currency"	"character varying"	"NO"	NULL
+"staff_pick"	"character varying"	"NO"	NULL
+"spotlight"	"character varying"	"NO"	NULL
+"category_id"	"character varying"	"NO"	NULL
+"subcategory_id"	"character varying"	"NO"	NULL
+"country"	"character varying"	"NO"	NULL
+"contact_id"	"character varying"	"NO"	NULL
+"company_name"	"character varying"	"NO"	NULL
+"description"	"character varying"	"NO"	NULL
+"outcome"	"character varying"	"NO"	NULL
+"cf_id"	"character varying"	"NO"	NULL
